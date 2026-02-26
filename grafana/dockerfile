@@ -1,4 +1,4 @@
-ARG VERSION=11.5.2
+ARG VERSION=12.4.0
 
 FROM grafana/grafana-oss:${VERSION}
 
